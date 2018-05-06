@@ -1,0 +1,26 @@
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\ASUS\Documents\visual studio 2015\Projects\Hesap Makinesi  c#\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\ASUS\Documents\visual studio 2015\Projects\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\ASUS\Documents\visual studio 2015\Projects\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\ASUS\Documents\visual studio 2015\Projects\Hesap Makinesi  c#\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\ASUS\Documents\visual studio 2015\Projects\Hesap Makinesi  c#\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\ASUS\Documents\visual studio 2015\Projects\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\visual studio 2015\Projects\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\ASUS\Documents\visual studio 2015\Projects\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\ASUS\Documents\visual studio 2015\Projects\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Staj\2.gün\Hesap Makinesi  c#\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\ASUS\Desktop\Staj\2.gün\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\ASUS\Desktop\Staj\2.gün\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\ASUS\Desktop\Staj\2.gün\Hesap Makinesi  c#\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\ASUS\Desktop\Staj\2.gün\Hesap Makinesi  c#\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\ASUS\Desktop\Staj\2.gün\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Staj\2.gün\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\ASUS\Desktop\Staj\2.gün\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Staj\2.gün\Hesap Makinesi  c#\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
